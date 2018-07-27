@@ -17,12 +17,15 @@ topological sort, shortest paths, etc. with graphviz output.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/altgraph-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/altgraph-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/altgraph-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/altgraph-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/altgraph/badges/version.svg)](https://anaconda.org/conda-forge/altgraph)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/altgraph/badges/downloads.svg)](https://anaconda.org/conda-forge/altgraph)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-altgraph-green.svg)](https://anaconda.org/conda-forge/altgraph) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/altgraph.svg)](https://anaconda.org/conda-forge/altgraph) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/altgraph.svg)](https://anaconda.org/conda-forge/altgraph) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/altgraph.svg)](https://anaconda.org/conda-forge/altgraph) |
 
 Installing altgraph
 ===================
