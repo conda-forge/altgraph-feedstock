@@ -1,5 +1,5 @@
 {% set name = "altgraph" %}
-{% set version = "0.17.1" %}
+{% set version = "0.17.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/altgraph-{{ version }}.tar.gz
-  sha256: daeb3458913161fba5ac1a8eb92b5850bcdc8ecdeb7b7b107adbbbc0ee0147df
+  sha256: ebf2269361b47d97b3b88e696439f6e4cbc607c17c51feb1754f90fb79839158
 
 build:
   number: 0
