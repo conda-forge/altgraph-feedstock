@@ -153,5 +153,6 @@ Feedstock Maintainers
 =====================
 
 * [@anthchirp](https://github.com/anthchirp/)
+* [@bkpoon](https://github.com/bkpoon/)
 * [@rth](https://github.com/rth/)
 
